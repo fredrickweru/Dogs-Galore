@@ -1,0 +1,22 @@
+.images img {
+  width: 200px;
+  height: 175px;
+  padding: auto;
+  padding-left: 30px;
+  padding-bottom: 30px;
+
+  border-radius: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+body {
+  padding-left: 100px;
+  background: linear-gradient(
+    45deg,
+    rgb(143, 108, 108) 0 50%,
+    rgb(151, 151, 223) 50% 100%
+  );
+}
